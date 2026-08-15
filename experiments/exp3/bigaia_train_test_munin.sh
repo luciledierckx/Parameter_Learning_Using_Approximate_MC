@@ -1,0 +1,3 @@
+#!/bin/bash
+
+parallel --bar "mkdir -p /experiments/outputs_NeSy/bayesian_networks/{1}/train_test_size/epsilon{2}/ && schlandals partial --trainfile /experiments/data/{1}/train_partial_fdac_e{2}.csv --testfile /experiments/data/{1}/test_partial_fdac.csv --outfolder /experiments/outputs_NeSy/bayesian_networks/{1}/train_test_size/epsilon{2}/ --nepochs 6000 --do-log --jobs 9 --epsilon {2} --ltimeout 3600" ::: munin ::: 0.0 0.1 0.5 0.8

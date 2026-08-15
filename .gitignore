@@ -1,0 +1,11 @@
+/target
+Cargo.lock
+pyschlandals/dist
+pyschlandals/target
+.vscode/
+pyschlandals/pipytoken
+.vimspector.json
+./*.cnf
+doc/book
+doc/figures/
+.github/

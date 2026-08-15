@@ -1,0 +1,9 @@
+Instance,Proba
+/data/schlandals/pwmc_benchmarks/instances/bayesian_networks/pcnf_partial/water/4.cnf,0.13953125
+/data/schlandals/pwmc_benchmarks/instances/fdacs/bn/water/4.fdac,0.13953125
+/data/schlandals/pwmc_benchmarks/instances/fdacs/bn/water/7.fdac,0.2274559772544
+/data/schlandals/pwmc_benchmarks/instances/fdacs/bn/water/14.fdac,0.15112615303782462
+/data/schlandals/pwmc_benchmarks/instances/fdacs/bn/water/15.fdac,0.7383229456950353
+/data/schlandals/pwmc_benchmarks/instances/fdacs/bn/water/25.fdac,0.0
+/data/schlandals/pwmc_benchmarks/instances/fdacs/bn/water/21.fdac,0.02918837347351633
+/data/schlandals/pwmc_benchmarks/instances/fdacs/bn/water/28.fdac,0.09106234416964704
